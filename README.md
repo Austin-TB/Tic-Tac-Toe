@@ -16,7 +16,7 @@ Welcome to the Tic Tac Toe Game! This project is a web-based implementation of t
 
 ## Features
 - Simple and intuitive web-based interface.
-- Option to play against a friend or the computer.
+- Option to play against a friend
 - Responsive design for both desktop and mobile play.
 
 ## Acknowledgements
